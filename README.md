@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-
-  # 👋 ¡Hola! Soy Pablo Trujillo Artunduaga
+# 👋 ¡Hola! Soy Pablo Trujillo Artunduaga
 
 🎓 Estudiante de programación  
 💻 Apasionado por el desarrollo de software  
@@ -13,24 +9,24 @@
 ## 🧠 Sobre mí
 
 - Me interesa el desarrollo de **software real**, no solo ejercicios
-- Me gusta aprender haciendo proyectos prácticos
-- Actualmente enfocado en mejorar mis bases de programación
+- Me gusta aprender creando proyectos prácticos
+- Actualmente enfocado en fortalecer mis bases de programación
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
-### Lenguajes
+### 💻 Lenguajes
 - 🐍 Python
 - ☕ Java
 
-### Librerías / Frameworks
+### 📚 Librerías / Frameworks
 - Tkinter
 - Swing
 - Pandas
 - Matplotlib
 
-### Herramientas
+### 🧰 Herramientas
 - Git & GitHub
 - Visual Studio Code
 - PyCharm
@@ -43,11 +39,9 @@
 - Buenas prácticas de programación
 - Diseño de interfaces gráficas
 - Lógica y estructura de software
-- Programación orientada a objetos
+- Programación Orientada a Objetos (POO)
 
 ---
-
-
 
 ## ⚡ Frase personal
 
