@@ -1,48 +1,54 @@
-# 👋 ¡Hola! Soy Pablo Trujillo Artunduaga
+# 👋 Hi there! I'm Pablo Trujillo Artunduaga
 
-🎓 Estudiante de programación  
-💻 Apasionado por el desarrollo de software  
-🚀 En constante aprendizaje
-
----
-
-## 🧠 Sobre mí
-
-- Me interesa el desarrollo de **software real**, no solo ejercicios
-- Me gusta aprender creando proyectos prácticos
-- Actualmente enfocado en fortalecer mis bases de programación
+🎓 Programming Student  
+💻 Passionate about Software Development  
+🚀 Always learning and improving
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🧠 About Me
 
-### 💻 Lenguajes
-- 🐍 Python
-- ☕ Java
-
-### 📚 Librerías / Frameworks
-- Tkinter
-- Swing
-- Pandas
-- Matplotlib
-
-### 🧰 Herramientas
-- Git & GitHub
-- Visual Studio Code
-- PyCharm
-- NetBeans
+- I enjoy building **real-world software**, not just simple exercises  
+- I like learning by creating practical projects  
+- Currently focused on strengthening my programming fundamentals  
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 🛠️ Tech Stack
 
-- Buenas prácticas de programación
-- Diseño de interfaces gráficas
-- Lógica y estructura de software
-- Programación Orientada a Objetos (POO)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,vscode,postgres,mysql&theme=dark" />
+</p>
 
 ---
 
-## ⚡ Frase personal
+## 📚 Currently Learning
 
-> “Aprender a programar es aprender a pensar.”
+- Clean code and good programming practices  
+- GUI development for desktop applications  
+- Software logic and structure  
+- Object-Oriented Programming (OOP)
+
+---
+
+## 🚀 Projects
+
+🔹 **CSV Data Manager (Python)**  
+Desktop application with a graphical interface to load and visualize CSV files.
+
+🔹 **Java Swing Application**  
+Desktop project applying OOP concepts and event handling.
+
+*(More projects coming soon 👀)*
+
+---
+
+## ⚡ Fun Fact
+
+> “Learning how to code is learning how to think.”
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
