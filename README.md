@@ -54,7 +54,7 @@
 > “Learning how to code is learning how to think.”  
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Tak2yJeJibkAAAAd/agatha-fundamental-paper-education.gif" width="320" />
+  <img src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif" width="320" />
 </p>
 
 ---
