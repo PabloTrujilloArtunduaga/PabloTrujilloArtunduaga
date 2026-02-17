@@ -66,6 +66,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloTrujilloArt&theme=radical" />
 </p>
 
+---
+
 <p align="center">
   🚀 Thanks for visiting! Explore my repositories and follow my journey.
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/Tak2yJeJibkAAAAd/agatha-fundamental-paper-education.gif" width="320" />
 </p>
