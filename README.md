@@ -5,67 +5,51 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0bf&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=PabloTrujilloArt&label=Profile%20Views&color=0bf&style=flat-square" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💻 Programming student passionate about **software development**  
-🚀 Focused on **real-world projects**, not just theory  
-🧩 Learning by building, failing, and improving  
-🎯 Interested in **desktop, backend, and databases**
+💻 I’m a **Programming Student** passionate about **software development**  
+🚀 Focused on creating **real-world projects**, not just theory  
+🧩 I believe in learning by **building, failing, and improving**  
+🎯 Interested in **Desktop Applications, Backend Development, and Databases**  
 
 ---
 
 ## 🛠️ Tech Skills
 
 <p align="center">
-  <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
 </p>
 
 ---
 
 ## ⏳ Current Status
 
-- 💻 Coding daily
-- 📚 Learning clean code & software design
-- 🧠 Improving Object-Oriented Programming
-- 🚀 Building personal projects
+- 💻 **Coding daily** and building projects  
+- 📚 **Learning Clean Code & Software Design**  
+- 🧠 **Improving Object-Oriented Programming skills**  
+- 🚀 **Working on personal projects**  
 
 ---
 
 ## ⚡ Philosophy
 
-> “Learning how to code is learning how to think.”
-
----
+> “Learning how to code is learning how to think.”  
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 </p>
 
 <p align="center">
-  🚀 Thanks for visiting — Explore my repositories and follow the journey
+  🚀 Thanks for visiting! Explore my repositories and follow my journey.
 </p>
