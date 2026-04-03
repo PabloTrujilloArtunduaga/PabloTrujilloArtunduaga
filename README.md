@@ -114,5 +114,5 @@ I firmly believe in improving every day through consistent practice and real pro
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Tak2yJeJibkAAAAd/agatha-fundamental-paper-education.gif" width="320" />
+  <img src="https://media1.tenor.com/m/ywLgpF4F1ZQAAAAC/niko-oneshot.gif" width="320" />
 </p>
