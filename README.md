@@ -72,7 +72,7 @@ I firmly believe in improving every day through consistent practice and real pro
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloTrujilloArt&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloTrujilloArtunduaga&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
   <img src="https://streak-stats.demolab.com?user=PabloTrujilloArt&theme=radical&hide_border=true" height="170"/>
 </p>
 
