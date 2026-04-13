@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PabloTrujilloArt&label=Profile%20Views&color=0bf&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=PabloTrujilloArtunduaga&label=Profile%20Views&color=0bf&style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Coding%20Daily-00FF7F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-Continuous%20Improvement-FF69B4?style=for-the-badge" />
 </p>
