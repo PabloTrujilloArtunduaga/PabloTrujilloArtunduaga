@@ -24,18 +24,11 @@
 
 ## 💡 [ SYSTEM_BOOT ]
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║  W O R L D   M A C H I N E   //   D E V   T E R M I N A L  ║
-╠══════════════════════════════════════════════════════════╣
-║  > INITIALIZING PABLO.EXE ............... OK             ║
-║  > LOADING UNIVERSITY MODULE ............ Surcolombiana  ║
-║  > LOADING MAJOR ........................ Software Eng.  ║
-║  > OBJECTIVE ............................ Solid developer║
-║  > POWER SOURCE ......................... Curiosity      ║
-║  > STATUS ............................... ONLINE ▮       ║
-╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PabloTrujilloArtunduaga/PabloTrujilloArtunduaga/main/assets/terminal.svg" width="800" alt="Animated World Machine dev terminal" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
 
