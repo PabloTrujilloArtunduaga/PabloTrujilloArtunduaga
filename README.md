@@ -1,184 +1,348 @@
+
 <!--
-  PALETTE
-  #1e0f1e  #5e3b57  #1a0f24  #2f1e41  #43263b
-  Light tints for readable text: #F0DDF0 (main)  #D8A7D0 (accent)  #A87BA0 (muted)
+  WORLD MACHINE EDITION INSPIRED PROFILE
+  Original visual direction, inspired by the virtual desktop
+  of OneShot: World Machine Edition.
+
+  COLOR PALETTE
+  Desktop:       #000000
+  Purple:        #9664FF
+  Purple Dark:   #6442A5
+  Window:        #110D1C
+  Main Text:     #E8E1F5
+  Muted Text:    #A99BBF
 -->
 
-<!-- ===================== WORLD MACHINE HEADER ===================== -->
+<!-- ============================================ -->
+<!--                 DESKTOP                      -->
+<!-- ============================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e0f1e,30:2f1e41,65:5e3b57,100:43263b&text=Pablo%20Trujillo%20Artunduaga&fontColor=F0DDF0&fontSize=42&fontAlignY=36&desc=%E2%97%86%20THE%20WORLD%20MACHINE%20IS%20ONLINE%20%E2%97%86&descColor=D8A7D0&descSize=18&descAlignY=57&animation=fadeIn" alt="Pablo Trujillo Artunduaga banner" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=D8A7D0&center=true&vCenter=true&width=800&lines=%3E+Booting+developer+protocol...;Software+Engineering+Student;Future+Software+Developer;Building+Real-World+Projects;Growing+Every+Day;%3E+The+sun+is+a+lightbulb.+Keep+it+lit." alt="Typing animation" />
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#110D1C">
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PabloTrujilloArtunduaga&label=Visitors%20Detected&labelColor=1e0f1e&color=5e3b57&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Status-Coding%20Daily-5e3b57?style=flat-square&labelColor=1e0f1e" alt="Status" />
-<img src="https://img.shields.io/badge/Mindset-Continuous%20Improvement-43263b?style=flat-square&labelColor=1e0f1e" alt="Mindset" />
-<img src="https://img.shields.io/badge/Location-Colombia-2f1e41?style=flat-square&labelColor=1e0f1e" alt="Location" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## 💡 [ SYSTEM_BOOT ]
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PabloTrujilloArtunduaga/PabloTrujilloArtunduaga/main/assets/terminal.svg" width="800" alt="Animated World Machine dev terminal" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## 👋 [ ABOUT_ME ]
-
-I'm a **Software Engineering student at Universidad Surcolombiana** (Colombia), focused on becoming a solid, highly competent developer.
-
-I love programming, learning something new every day, and building practical solutions to real-world problems. I believe the fastest way to improve is **consistent practice and shipping real projects**.
-
-- ◆ Studying Software Engineering at Universidad Surcolombiana
-- ◆ Currently strengthening my backend and OOP foundations
-- ◆ Learning by building: every project is a chance to write cleaner code
-- ◆ Open to collaborating, learning from others, and taking on new challenges
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## 🛠️ [ TECH_STACK ]
-
-<div align="center">
-
-<a href="https://skillicons.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,postgres,mysql,git,github,vscode&theme=dark" alt="Tech stack icons" />
-</a>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=500&size=13&duration=3500&pause=1200&color=9664FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+desktop.;The+World+Machine+is+running...;Initializing+personal+workspace...;Hello%2C+visitor!" alt="Welcome animation"/>
 
 <br/>
 
-<table align="center">
-  <tr>
-    <th>◆ Module</th>
-    <th>◆ Function</th>
-  </tr>
-  <tr>
-    <td><b>Python & Java</b></td>
-    <td>Object-oriented programming, backend logic, and desktop applications</td>
-  </tr>
-  <tr>
-    <td><b>JavaScript & React</b></td>
-    <td>Frontend interfaces and dynamic web applications</td>
-  </tr>
-  <tr>
-    <td><b>PostgreSQL & MySQL</b></td>
-    <td>Database design, relational modeling, and data management</td>
-  </tr>
-  <tr>
-    <td><b>HTML & CSS</b></td>
-    <td>Web structure, styling, and responsive layouts</td>
-  </tr>
-  <tr>
-    <td><b>Git, GitHub & VS Code</b></td>
-    <td>Version control, collaboration, and an optimized daily workflow</td>
-  </tr>
+# Pablo Trujillo Artunduaga
+
+**Software Engineering Student · Developer · Colombia**
+
+<sub>WELCOME TO MY WORLD MACHINE</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PabloTrujilloArtunduaga&label=Visitors&color=6442A5&style=flat-square&labelColor=110D1C" alt="Visitors"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-9664FF?style=flat-square&labelColor=110D1C" alt="System online"/>
+<img src="https://img.shields.io/badge/LOCATION-Colombia-6442A5?style=flat-square&labelColor=110D1C" alt="Location"/>
+
+<br/><br/>
+
+</td>
+</tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## 🎯 [ CURRENT_FOCUS ]
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Clean%20Code-Improving-5e3b57?style=for-the-badge&labelColor=1e0f1e" alt="Clean Code" />
-<img src="https://img.shields.io/badge/OOP-Strengthening-43263b?style=for-the-badge&labelColor=1a0f24" alt="OOP" />
-<img src="https://img.shields.io/badge/Backend-Deepening%20Knowledge-2f1e41?style=for-the-badge&labelColor=1e0f1e" alt="Backend" />
-<img src="https://img.shields.io/badge/Projects-Building%20Consistently-5e3b57?style=for-the-badge&labelColor=1a0f24" alt="Projects" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## 📊 [ SYSTEM_DIAGNOSTICS ]
+<!-- ============================================ -->
+<!--                 DESKTOP APPS                 -->
+<!-- ============================================ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PabloTrujilloArtunduaga&show_icons=true&bg_color=1a0f24&border_color=5e3b57&title_color=D8A7D0&text_color=F0DDF0&icon_color=A87BA0&cache_seconds=1800" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTrujilloArtunduaga&layout=compact&bg_color=1a0f24&border_color=5e3b57&title_color=D8A7D0&text_color=F0DDF0&cache_seconds=1800" height="170" alt="Top languages" />
+<table width="100%">
+<tr>
+<td bgcolor="#6442A5" align="left">
+
+**▣  ABOUT_ME.txt**
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#110D1C">
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PabloTrujilloArtunduaga&background=1a0f24&stroke=5e3b57&ring=D8A7D0&fire=A87BA0&currStreakNum=F0DDF0&sideNums=F0DDF0&currStreakLabel=D8A7D0&sideLabels=D8A7D0&dates=A87BA0" alt="GitHub streak" />
+I'm a **Software Engineering student at Universidad Surcolombiana**, Colombia, interested in software development and building practical solutions to real-world problems.
+
+I enjoy exploring new technologies, understanding how systems work, and turning ideas into functional applications.
+
+My goal is to become a well-rounded software developer through continuous learning, experimentation, and real-world projects.
+
+<br/>
+
+| Personal Information | Details |
+|:---|:---|
+| **Occupation** | Software Engineering Student |
+| **University** | Universidad Surcolombiana |
+| **Location** | Colombia |
+| **Interests** | Software Development, Backend, Databases |
+| **Current mission** | Learn, build and improve |
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td bgcolor="#6442A5">
+
+**▣  MY_COMPUTER — Technology & Tools**
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#110D1C" align="center">
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,postgres,mysql,git,github,vscode&theme=dark" alt="Technology icons"/>
+
+<br/><br/>
+
+| Application | Purpose |
+|:---|:---|
+| **Python & Java** | Object-oriented programming, backend logic and application development |
+| **JavaScript & React** | Interactive interfaces and web applications |
+| **PostgreSQL & MySQL** | Relational databases and data management |
+| **HTML & CSS** | Web structure, styling and responsive design |
+| **Git & GitHub** | Version control and collaborative development |
+| **VS Code** | Development environment |
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td bgcolor="#6442A5">
+
+**▣  SYSTEM_PREFERENCES — Current Focus**
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#110D1C" align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Clean_Code-Improving-9664FF?style=flat-square&labelColor=110D1C" alt="Clean Code"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-Learning-6442A5?style=flat-square&labelColor=110D1C" alt="OOP"/>
+<img src="https://img.shields.io/badge/Backend-Developing-9664FF?style=flat-square&labelColor=110D1C" alt="Backend"/>
+<img src="https://img.shields.io/badge/Software_Architecture-Exploring-6442A5?style=flat-square&labelColor=110D1C" alt="Software Architecture"/>
+<img src="https://img.shields.io/badge/Real_World_Projects-Building-9664FF?style=flat-square&labelColor=110D1C" alt="Projects"/>
+
+<br/><br/>
+
+**Current objectives**
+
+- Improve software architecture and code quality.
+- Strengthen backend development skills.
+- Explore new technologies and development tools.
+- Build useful and maintainable software.
+- Keep learning through practical projects.
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## 💭 [ PHILOSOPHY ]
+<!-- ============================================ -->
+<!--                SYSTEM MONITOR                -->
+<!-- ============================================ -->
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td bgcolor="#6442A5">
+
+**▣  SYSTEM_MONITOR — GitHub Activity**
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#110D1C" align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PabloTrujilloArtunduaga&show_icons=true&bg_color=110D1C&border_color=6442A5&title_color=9664FF&text_color=E8E1F5&icon_color=9664FF&cache_seconds=1800" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTrujilloArtunduaga&layout=compact&bg_color=110D1C&border_color=6442A5&title_color=9664FF&text_color=E8E1F5&cache_seconds=1800" height="170" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=PabloTrujilloArtunduaga&background=110D1C&border=6442A5&ring=9664FF&fire=9664FF&currStreakNum=E8E1F5&sideNums=E8E1F5&currStreakLabel=9664FF&sideLabels=A99BBF&dates=A99BBF" alt="GitHub contribution streak"/>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ============================================ -->
+<!--                   NOTES                      -->
+<!-- ============================================ -->
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td bgcolor="#6442A5">
+
+**▣  NOTES.txt — Personal Philosophy**
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#110D1C" align="center">
+
+<br/>
 
 > *"Learning how to code is learning how to think."*
 
-<img src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif" width="320" alt="Philosophy GIF" />
+<br/>
+
+<img src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif" width="300" alt="OneShot philosophy GIF"/>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td bgcolor="#6442A5">
+
+**▣  POWER_STATUS — Development Energy**
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#110D1C" align="center">
+
+<br/>
+
+<img src="https://media1.tenor.com/m/jbObrGkEBV4AAAAC/avolicis-oneshot.gif" width="300" alt="OneShot development energy GIF"/>
+
+<br/>
+
+**SYSTEM STATUS: RUNNING**
+
+<sub>LIGHTBULB: GLOWING · MACHINE: OPERATIONAL</sub>
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## ⚡ [ DEVELOPMENT_ENERGY ]
-
-<div align="center">
-
-```text
-       .-"""-.
-      /  ◆ ◆  \        > POWER LEVEL ..... ████████████████████ 100%
-     |   ___   |       > LIGHTBULB ....... GLOWING
-      \  \_/  /        > MACHINE ......... RUNNING
-       '-._.-'
-        |___|
-```
-
-<img src="https://media1.tenor.com/m/jbObrGkEBV4AAAAC/avolicis-oneshot.gif" width="320" alt="Development energy GIF" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
-
-## 📫 [ ESTABLISH_CONNECTION ]
+<!-- ============================================ -->
+<!--                 CONTACTS                     -->
+<!-- ============================================ -->
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td bgcolor="#6442A5">
+
+**▣  CONTACTS — Establish Connection**
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#110D1C" align="center">
+
+<br/>
 
 <a href="https://github.com/PabloTrujilloArtunduaga">
-  <img src="https://img.shields.io/badge/GitHub-PabloTrujilloArtunduaga-5e3b57?style=for-the-badge&logo=github&logoColor=F0DDF0&labelColor=1e0f1e" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Visit_Profile-9664FF?style=for-the-badge&logo=github&logoColor=white&labelColor=110D1C" alt="GitHub"/>
 </a>
-<!-- Replace the placeholders below with your real links, or delete these lines -->
+
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-43263b?style=for-the-badge&logo=linkedin&logoColor=F0DDF0&labelColor=1e0f1e" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6442A5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=110D1C" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-2f1e41?style=for-the-badge&logo=gmail&logoColor=F0DDF0&labelColor=1e0f1e" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-9664FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=110D1C" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e0f1e,50:5e3b57,100:1e0f1e" width="100%" alt="divider" />
+<sub>Feel free to explore my repositories and connect with me!</sub>
 
-<div align="center">
+<br/>
 
-## 🚀 [ KEEP_GROWING ]
+</td>
+</tr>
+</table>
 
-Explore my repositories and follow my development journey.
+<br/>
 
-<img src="https://media1.tenor.com/m/ywLgpF4F1ZQAAAAC/niko-oneshot.gif" width="320" alt="Keep growing GIF" />
+<!-- ============================================ -->
+<!--                   SHUTDOWN                   -->
+<!-- ============================================ -->
+
+<table width="100%">
+<tr>
+<td bgcolor="#110D1C" align="center">
+
+<br/>
+
+<img src="https://media1.tenor.com/m/ywLgpF4F1ZQAAAAC/niko-oneshot.gif" width="300" alt="Niko OneShot GIF"/>
+
+<br/>
+
+**Thank you for visiting!**
+
+<sub>There is still so much to discover...</sub>
 
 <br/><br/>
 
 ```text
-> END OF TRANSMISSION.
-> THE LIGHT STAYS ON. ▮
+WORLD MACHINE
+------------------------------
+SYSTEM: ONLINE
+USER: Pablo
+SESSION: ACTIVE
+------------------------------
+Keep the light alive.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1e0f1e,30:2f1e41,65:5e3b57,100:43263b&section=footer" alt="Footer" width="100%" />
+<br/>
+
+<img src="https://img.shields.io/badge/END_OF_SESSION-SEE_YOU_AGAIN-6442A5?style=flat-square&labelColor=110D1C" alt="End of session"/>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 </div>
