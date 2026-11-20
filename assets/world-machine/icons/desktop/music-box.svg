@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- WME-inspired music box / jukebox icon -->
+  <!-- Box body -->
+  <rect x="5"  y="6"  width="22" height="20" fill="#1A1028"/>
+  <rect x="5"  y="6"  width="22" height="1"  fill="#9B64F6"/>
+  <rect x="5"  y="6"  width="1"  height="20" fill="#9B64F6"/>
+  <rect x="26" y="6"  width="1"  height="20" fill="#9B64F6"/>
+  <rect x="5"  y="25" width="22" height="1"  fill="#9B64F6"/>
+  <!-- Speaker grille left -->
+  <rect x="7"  y="9"  width="6"  height="8"  fill="#0B0712"/>
+  <rect x="7"  y="9"  width="6"  height="1"  fill="#6940A7"/>
+  <rect x="7"  y="9"  width="1"  height="8"  fill="#6940A7"/>
+  <rect x="12" y="9"  width="1"  height="8"  fill="#6940A7"/>
+  <rect x="7"  y="16" width="6"  height="1"  fill="#6940A7"/>
+  <rect x="8"  y="11" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="10" y="11" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="8"  y="13" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="10" y="13" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="8"  y="15" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="10" y="15" width="1"  height="1"  fill="#2A1A3E"/>
+  <!-- Speaker grille right -->
+  <rect x="19" y="9"  width="6"  height="8"  fill="#0B0712"/>
+  <rect x="19" y="9"  width="6"  height="1"  fill="#6940A7"/>
+  <rect x="19" y="9"  width="1"  height="8"  fill="#6940A7"/>
+  <rect x="24" y="9"  width="1"  height="8"  fill="#6940A7"/>
+  <rect x="19" y="16" width="6"  height="1"  fill="#6940A7"/>
+  <rect x="20" y="11" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="22" y="11" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="20" y="13" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="22" y="13" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="20" y="15" width="1"  height="1"  fill="#2A1A3E"/>
+  <rect x="22" y="15" width="1"  height="1"  fill="#2A1A3E"/>
+  <!-- Center display -->
+  <rect x="14" y="9"  width="4"  height="8"  fill="#08050D"/>
+  <rect x="14" y="9"  width="4"  height="1"  fill="#8751D8"/>
+  <rect x="14" y="9"  width="1"  height="8"  fill="#8751D8"/>
+  <rect x="17" y="9"  width="1"  height="8"  fill="#8751D8"/>
+  <rect x="14" y="16" width="4"  height="1"  fill="#8751D8"/>
+  <!-- Music note in center -->
+  <rect x="15" y="11" width="1"  height="3"  fill="#BE91FF"/>
+  <rect x="16" y="11" width="1"  height="1"  fill="#BE91FF"/>
+  <rect x="15" y="14" width="2"  height="1"  fill="#9B64F6"/>
+  <!-- Controls bottom -->
+  <rect x="8"  y="18" width="4"  height="4"  fill="#8751D8"/>
+  <rect x="9"  y="19" width="2"  height="2"  fill="#BE91FF"/>
+  <rect x="14" y="18" width="4"  height="4"  fill="#6940A7"/>
+  <rect x="20" y="18" width="4"  height="4"  fill="#8751D8"/>
+  <rect x="21" y="19" width="2"  height="2"  fill="#BE91FF"/>
+  <!-- Legs -->
+  <rect x="8"  y="26" width="3"  height="3"  fill="#6940A7"/>
+  <rect x="21" y="26" width="3"  height="3"  fill="#6940A7"/>
+</svg>

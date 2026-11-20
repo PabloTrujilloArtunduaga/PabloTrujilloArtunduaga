@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- WME-inspired settings / gear icon -->
+  <!-- Gear teeth (8 directions) -->
+  <rect x="13" y="1"  width="6"  height="4"  fill="#8751D8"/>
+  <rect x="13" y="27" width="6"  height="4"  fill="#8751D8"/>
+  <rect x="1"  y="13" width="4"  height="6"  fill="#8751D8"/>
+  <rect x="27" y="13" width="4"  height="6"  fill="#8751D8"/>
+  <!-- Diagonal teeth -->
+  <rect x="5"  y="5"  width="4"  height="4"  fill="#8751D8"/>
+  <rect x="23" y="5"  width="4"  height="4"  fill="#8751D8"/>
+  <rect x="5"  y="23" width="4"  height="4"  fill="#8751D8"/>
+  <rect x="23" y="23" width="4"  height="4"  fill="#8751D8"/>
+  <!-- Outer ring -->
+  <rect x="9"  y="4"  width="14" height="1"  fill="#9B64F6"/>
+  <rect x="4"  y="9"  width="1"  height="14" fill="#9B64F6"/>
+  <rect x="27" y="9"  width="1"  height="14" fill="#9B64F6"/>
+  <rect x="9"  y="27" width="14" height="1"  fill="#9B64F6"/>
+  <!-- Body ring area -->
+  <rect x="5"  y="9"  width="22" height="14" fill="#1A1028"/>
+  <rect x="9"  y="5"  width="14" height="22" fill="#1A1028"/>
+  <!-- Rim highlight -->
+  <rect x="5"  y="9"  width="22" height="1"  fill="#BE91FF"/>
+  <rect x="5"  y="9"  width="1"  height="14" fill="#BE91FF"/>
+  <rect x="26" y="9"  width="1"  height="14" fill="#6940A7"/>
+  <rect x="5"  y="22" width="22" height="1"  fill="#6940A7"/>
+  <!-- Center circle -->
+  <rect x="12" y="12" width="8"  height="8"  fill="#08050D"/>
+  <rect x="12" y="12" width="8"  height="1"  fill="#9B64F6"/>
+  <rect x="12" y="12" width="1"  height="8"  fill="#9B64F6"/>
+  <rect x="19" y="12" width="1"  height="8"  fill="#6940A7"/>
+  <rect x="12" y="19" width="8"  height="1"  fill="#6940A7"/>
+  <!-- Center dot -->
+  <rect x="14" y="14" width="4"  height="4"  fill="#8751D8"/>
+  <rect x="15" y="15" width="2"  height="2"  fill="#BE91FF"/>
+</svg>

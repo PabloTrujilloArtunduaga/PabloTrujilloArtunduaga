@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- WME-inspired exit icon: door with arrow -->
+  <!-- Door frame -->
+  <rect x="6"  y="4"  width="16" height="24" fill="#17101F"/>
+  <rect x="6"  y="4"  width="16" height="1"  fill="#9B64F6"/>
+  <rect x="6"  y="4"  width="1"  height="24" fill="#9B64F6"/>
+  <rect x="21" y="4"  width="1"  height="24" fill="#9B64F6"/>
+  <rect x="6"  y="27" width="16" height="1"  fill="#9B64F6"/>
+  <!-- Door panel -->
+  <rect x="8"  y="6"  width="12" height="20" fill="#1A1028"/>
+  <rect x="8"  y="6"  width="12" height="1"  fill="#6940A7"/>
+  <rect x="8"  y="6"  width="1"  height="20" fill="#6940A7"/>
+  <rect x="19" y="6"  width="1"  height="20" fill="#6940A7"/>
+  <rect x="8"  y="25" width="12" height="1"  fill="#6940A7"/>
+  <!-- Door knob -->
+  <rect x="17" y="15" width="2"  height="2"  fill="#BE91FF"/>
+  <!-- Exit arrow pointing right-out -->
+  <rect x="22" y="13" width="6"  height="2"  fill="#8751D8"/>
+  <rect x="25" y="11" width="1"  height="2"  fill="#8751D8"/>
+  <rect x="26" y="11" width="1"  height="2"  fill="#8751D8"/>
+  <rect x="25" y="15" width="1"  height="2"  fill="#8751D8"/>
+  <rect x="26" y="15" width="1"  height="2"  fill="#8751D8"/>
+  <rect x="27" y="12" width="1"  height="4"  fill="#BE91FF"/>
+  <!-- Floor base -->
+  <rect x="4"  y="28" width="20" height="1"  fill="#6940A7"/>
+</svg>

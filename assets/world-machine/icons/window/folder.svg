@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- WME-inspired folder icon: tab + body -->
+  <!-- Tab -->
+  <rect x="3"  y="8"  width="10" height="3"  fill="#8751D8"/>
+  <rect x="3"  y="8"  width="10" height="1"  fill="#BE91FF"/>
+  <rect x="3"  y="8"  width="1"  height="3"  fill="#BE91FF"/>
+  <rect x="12" y="8"  width="1"  height="3"  fill="#9B64F6"/>
+  <!-- Body -->
+  <rect x="3"  y="11" width="26" height="16" fill="#17101F"/>
+  <rect x="3"  y="11" width="26" height="1"  fill="#9B64F6"/>
+  <rect x="3"  y="11" width="1"  height="16" fill="#9B64F6"/>
+  <rect x="28" y="11" width="1"  height="16" fill="#6940A7"/>
+  <rect x="3"  y="26" width="26" height="1"  fill="#6940A7"/>
+  <!-- Interior sheen -->
+  <rect x="5"  y="13" width="22" height="12" fill="#1A1028"/>
+  <!-- Folder lines / contents hint -->
+  <rect x="7"  y="15" width="8"  height="1"  fill="#2A1A3E"/>
+  <rect x="7"  y="17" width="12" height="1"  fill="#2A1A3E"/>
+  <rect x="7"  y="19" width="10" height="1"  fill="#2A1A3E"/>
+  <rect x="7"  y="21" width="14" height="1"  fill="#2A1A3E"/>
+  <!-- Folder icon highlight -->
+  <rect x="5"  y="13" width="22" height="1"  fill="#2A1A3E"/>
+  <rect x="5"  y="13" width="1"  height="12" fill="#2A1A3E"/>
+</svg>
